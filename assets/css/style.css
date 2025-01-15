@@ -18,8 +18,8 @@
 
 #infoDiv{
     width: 150px;
-    top: 10px;
-    right: -85%;
+    top: 5px;
+    right: -93%;
     position: relative;
     color:gray;
     cursor: pointer;
@@ -33,7 +33,7 @@
 #colorChangeDiv{
     width: 150px;
     top: 10px;
-    right: -85%;
+    right: -93%;
     position: relative;
     color:gray;
     cursor: pointer;
